@@ -7,6 +7,7 @@ Creating A Web Server With Flask
 - Python
 - Html
 - CSS
+- JS
 
 ## Run Locally
 
