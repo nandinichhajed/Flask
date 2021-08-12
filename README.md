@@ -29,6 +29,12 @@ Create virtual Environment
   virtualenv venv
 ```
 
+Activate virtual Environment
+
+```bash
+.\venv\Scripts\activate
+```
+
 Install dependencies
 
 ```bash
