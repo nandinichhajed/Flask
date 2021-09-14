@@ -14,13 +14,7 @@ Creating A Web Server With Flask
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
+  git clone https://github.com/nandinichhajed/Flask.git
 ```
 
 Create virtual Environment
@@ -50,7 +44,7 @@ Turn on the Developement mode
 Start the server
 
 ```bash
-  FLASK_APP = "hello.py"
+  FLASK_APP = "server.py"
 ```
 
 Run the server
@@ -62,4 +56,16 @@ Run the server
 
 ## Feedback
 
+These samples may be updated from time to time so you might want to get updates using `git pull`.  Also if there are bugs, you are welcome to submit a Pull Request on github.Either
 Reach out to me on [LinkedIn](https://linkedin.com/in/nandinichhajed)
+
+<h2>Author</h2>
+<blockquote>
+  Nandini Chhajed<br>
+  Email: nandinichhajed08@gmail.com
+</blockquote>
+
+<div align="center">
+    <h3>========Thank You !!!=========</h3>
+</div>
+
