@@ -43,15 +43,15 @@ Turn on the Developement mode
 
 Start the server
 
-(on commandline)
+- on commandline
 ```bash
   set FLASK_APP = "server.py"  
 ```
-(on powershell)
+- on powershell
 ```bash
   $env:FLASK_APP = "server.py"   
 ```
-(on terminal)
+- on terminal
 ```bash
   $ export FLASK_APP=server.py   
 ```
@@ -66,6 +66,7 @@ Run the server
 
 These samples may be updated from time to time so you might want to get updates using `git pull`.  Also if there are bugs, you are welcome to submit a Pull Request on github.Either
 Reach out to me on [LinkedIn](https://linkedin.com/in/nandinichhajed)
+
 
 <h2>Author</h2>
 <blockquote>
