@@ -43,10 +43,18 @@ Turn on the Developement mode
 
 Start the server
 
+(on commandline)
 ```bash
-  FLASK_APP = "server.py"
+  set FLASK_APP = "server.py"  
 ```
-
+(on powershell)
+```bash
+  $env:FLASK_APP = "server.py"   
+```
+(on terminal)
+```bash
+  $ export FLASK_APP=server.py   
+```
 Run the server
 
 ```bash
